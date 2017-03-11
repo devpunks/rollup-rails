@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Rollup.js assets for Rails}
   spec.description   = %q{Rollup.js assets for Rails}
-  spec.homepage      = "http://devpunks.com"
+  spec.homepage      = "https://github.com/devpunks/rollup-rails"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
   # delete this section to allow pushing this gem to any host.
